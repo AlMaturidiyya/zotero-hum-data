@@ -1,3 +1,3 @@
 # zotero-hum-data
-Teaching Zotero for Humanities Data Management
+Teaching Zotero for Humanities Data Management: 
 Zotero is a free and easy to learn tool that helps collect, organize, cite, and share information. However, Zotero does more than this: it helps the researcher manage their data––primarily journal articles, books/ebooks, videos, webpages, and all of the associated metadata––in order to preserve and sustain their project. The ideal data management scenario is long-term: resources that one can return to time and again, asking the same question in different ways, or new questions. Being pro-active in the management and maintenance of items and the connections between them is one best practice for supporting long-term use and survival of humanities research data and the products of research.
